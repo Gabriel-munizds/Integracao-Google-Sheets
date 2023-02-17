@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 
 # Define Usuário e Senha do SIAC
-usuario = '<LOGIN>'
-senha = '<SENHA>'
+usuario = '537-GABRIEL'
+senha = 'Gmyp_2105'
 
 # Define Período do relatório (ddmmaa)
 initialDate = '01012023' 
