@@ -1,2 +1,2 @@
 # Integracao-Google-Sheets
-Projeto de integração com o Google Planilhas teste
+Projeto de integração com o Google Planilhas
